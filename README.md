@@ -1,1 +1,1 @@
-# This is a an alx devops projects
+# This is a an alx devops project
